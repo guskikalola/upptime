@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.guskikalola.com.ico",
     "slug": "fediverse-instance",
     "status": "down",
-    "uptime": "90.16%",
-    "uptimeDay": "54.14%",
-    "uptimeWeek": "62.53%",
-    "uptimeMonth": "63.03%",
-    "uptimeYear": "90.16%",
-    "time": 527,
-    "timeDay": 236,
-    "timeWeek": 280,
-    "timeMonth": 354,
-    "timeYear": 527,
+    "uptime": "90.12%",
+    "uptimeDay": "53.91%",
+    "uptimeWeek": "62.35%",
+    "uptimeMonth": "62.99%",
+    "uptimeYear": "90.12%",
+    "time": 526,
+    "timeDay": 286,
+    "timeWeek": 289,
+    "timeMonth": 353,
+    "timeYear": 526,
     "dailyMinutesDown": {
-      "2025-09-20": 459,
+      "2025-09-21": 65,
+      "2025-09-20": 664,
       "2025-09-19": 480,
       "2025-09-18": 482,
       "2025-09-17": 470,
@@ -106,8 +107,7 @@
       "2025-05-31": 806,
       "2025-05-30": 528,
       "2025-05-26": 20,
-      "2025-04-28": 208,
-      "2025-04-26": 22
+      "2025-04-28": 208
     }
   }
 ]
